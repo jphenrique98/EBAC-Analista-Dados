@@ -23,4 +23,4 @@ Descrilçao dos comandos por linha:
 5 ./: executa o arquivo com o nome indicado.
 
 
-(A atividade do módulo de linux nçao informava inserções pra executar o script então foi informado apenas uma mensagem informativa com o comando echo, que permite exibir mensagens no console)
+(A atividade do módulo de linux não informava inserções pra executar o script então foi informado apenas uma mensagem informativa com o comando echo, que permite exibir mensagens no console)
