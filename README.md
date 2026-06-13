@@ -13,10 +13,13 @@ Na pasta **ComandosArquivoSH** a gente vai encontrar um arquivo de comandos onde
 Descrilçao dos comandos por linha:
 
 1 touch: cria um arquivo. 
+
 2 nano: abre o editor para o arquivo que criamos.
+
 3 chmod 744: altera as permissões do arquivo.
+
 4 ls -l: lista os arquivos no diretório atual.
+
 5 ./: executa o arquivo com o nome indicado.
 
 (A atividade do módulo de linux nçao informava inserções pra executar o script então foi informado apenas uma mensagem informativa com o comando echo, que permite exibir mensagens no console)
-
