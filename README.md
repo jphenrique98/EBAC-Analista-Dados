@@ -12,11 +12,13 @@ Ja no arquivo **Atividade_1.ipynb** esta o código que criei em python pra verif
 Na pasta **ComandosArquivoSH** a gente vai encontrar um arquivo de comandos onde indica como foi feia a criação de um script chamado calculadora.sh
 Descrilçao dos comandos por linha:
 
-```1 touch: cria um arquivo. 
+```
+1 touch: cria um arquivo. 
 2 nano: abre o editor para o arquivo que criamos.
 3 chmod 744: altera as permissões do arquivo.
 4 ls -l: lista os arquivos no diretório atual.
-5 ./: executa o arquivo com o nome indicado.```
+5 ./: executa o arquivo com o nome indicado.
+```
 
 
 (A atividade do módulo de linux não informava inserções pra executar o script então foi informado apenas uma mensagem informativa com o comando echo, que permite exibir mensagens no console)
